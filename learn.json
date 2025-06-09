@@ -25,10 +25,8 @@
         "APIs",
         "REST"
     ],
-    "editor": {
-        "version": "5.0",
-        "agent": "vscode"
-    },
+    
+    
     "video": {
         "intro": {
             "es": "https://www.youtube.com/watch?v=O5R0QVGWwEs"
